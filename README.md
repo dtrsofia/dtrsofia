@@ -6,7 +6,7 @@
 ![cococalypso](https://github.com/user-attachments/assets/b0946be9-013c-49ee-867f-0bfcc47ee9f6)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrsofia&show_icons=true&theme=radical)
 
 
 
